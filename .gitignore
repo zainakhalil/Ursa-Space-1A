@@ -1,0 +1,4 @@
+train.json
+*.pyc
+_pycache_/
+venv/

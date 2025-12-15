@@ -38,7 +38,7 @@ This project explores the use of open-source pre-trained computer vision models 
 
 ## Dataset
 
-We use an open-source SAR imagery dataset containing labeled examples of vessels and icebergs. The dataset is preprocessed and split into training and validation sets. See [clean_training_data.py](clean_training_data.py), [split_training_validation_dataset.py](split_training_validation_dataset.py), and [EDA.ipynb](EDA.ipynb) for data preparation steps.
+We use an open-source SAR imagery dataset containing labeled examples of vessels and icebergs. The dataset is preprocessed and split into training and validation sets. See [clean_training_data.py](clean_training_data.py), [split_training_validation_dataset.py](split_training_validation_dataset.py), and [EDA.ipynb](https://github.com/zainakhalil/Ursa-Space-1A/blob/b895b563a97187b1041b740bb4397afe6c12d293/EDA%20.ipynb) for data preparation steps.
 
 ## Approach
 
